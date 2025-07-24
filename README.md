@@ -2,6 +2,7 @@
 
 A smart resume analyzer that compares uploaded resumes with job descriptions and gives a match score using NLP.
 
+LIVE DEMO: [Click here to try the app!](https://resume-analyzer-app-mftzfakjafsyn499ibzef4.streamlit.app/)
 FEATURES
 - Upload Resume (PDF)
 - Upload Job Description (TXT)
